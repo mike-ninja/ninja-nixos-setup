@@ -1,0 +1,4456 @@
+ls
+ls -la
+v .zprofile
+ls
+ls -la
+v .zprofile
+nvim .zprofile
+clear
+ls
+cd .config/nushell/
+ls
+cat /etc/shells
+which nu
+echo $ZDOTIR
+env
+echo $ZDODIR
+echo $ZDOTDIR
+clear
+cf
+cd .config/
+ls
+cd shell/
+ls
+v
+nvim
+clear
+clear
+asdsa
+ls
+ls
+v
+nvim
+cat /etc/shells
+which nu
+echo "/home/mike/.local/share/cargo/bin/nu" >> /etc/shells
+cat /etc/shells
+sudo echo "/home/mike/.local/share/cargo/bin/nu" >> /etc/shells
+cat /etc/shells
+nvim /etc/shells
+which nu
+sudo nvim /etc/shells
+which nu
+cat /etc/shells
+chsh /home/mike/.local/share/cargo/bin/nu
+ls ~/.local/share/cargo/bin/nu
+ls -la ~/.local/share/cargo/bin/nu
+clear
+chsh /home/mike/.local/share/cargo/bin/nu
+sudo chsh /home/mike/.local/share/cargo/bin/nu
+sudo chsh ~/.local/share/cargo/bin/nu
+cat /etc/shells
+sudo chsh -s ~/.local/share/cargo/bin/nu
+clear
+.screenlayout/standard.sh
+ll
+env
+env
+config
+config nu
+config -h
+config env
+config nu
+nu.config-path
+config.nu
+clear
+ls
+sleep 100
+peei
+ls
+ls -la
+ls
+mpv `Peek 2023-07-06 12-11.gif`
+rm `Peek 2023-07-06 12-11.gif`
+peek
+clear
+ls
+peek nu
+ls
+clear
+echo hello
+ls
+mpv `Peek 2023-07-06 12-14.gif`
+ls
+clear
+ls
+cd coding/42sh/
+ls
+rm `Peek 2023-07-06 12-14.gif`
+ls
+mpv `Peek 2023-07-06 12-16.gif`
+ls
+rm `Peek 2023-07-06 12-16.gif`
+./42sh
+ls
+clear
+mpv `Peek 2023-07-06 12-20.gif`
+ls
+clear
+ls
+rm `Peek 2023-07-06 12-20.gif`
+clear
+echo $foo
+./42sh
+clear
+ls
+./42sh
+clear
+./42sh
+clear
+./42sh
+clear
+./42sh
+clear
+ls
+./42sh
+clear
+./42sh
+clear
+./42sh
+clear
+ls /tmp
+ls
+clear
+ls
+cd screenrecording/ls
+cd screenrecording/
+ls
+..
+ls
+peek
+clear
+ls
+clear
+./42sh
+clear
+./42sh
+clear
+ls
+mpv shell_variables.gif
+ls
+./42sh
+cd coding/42sh
+clear
+./42sh
+clear
+cd coding/42sh/
+clear
+./42sh
+clear
+./42sh
+clear
+./42sh
+clear
+./42sh
+ls
+mpv shell_variables.gif
+ls
+mv *.gif screenrecording/
+ls
+cd screenrecording/
+ls
+cd coding/42sh/
+clear
+./42sh
+clear
+clear
+ls
+mpv shell_variables.gif
+mpv inhibitors.gif
+./42sh
+ls /tmp/
+ls /tmp/ | grep test
+clear
+./42sh
+clear
+./42sh
+kill man
+man kill
+clear
+ls
+clear
+sleep 100 &
+clear
+./42sh
+clear
+mpv screenrecording/shell_variables.gif
+./42sh
+clear
+./42sh
+clear
+./42sh
+clear
+./42sh
+clear
+brave
+peek
+.screenlayout/standard.sh
+config.nu
+config nu
+cd .config/nushell/
+ll
+ls
+v env.nu
+vim env.nu
+nvim env.nu
+clear
+asdsad
+cd coding/
+ls
+config nu
+env
+clear
+ls -l
+ls
+config
+config nu
+$nu.config-path
+config nu
+brew
+clear
+curl -s https://ohmyposh.dev/install.sh | bash -s -- -d ~/.local/bin/
+env $PATH
+env
+env 
+env | grep PATH
+bat .zprofile
+nvim .zprofile
+config nu
+--help
+ls
+ls ~/.local/bin/oh-my-posh
+ls ~/.local/bin/oh-my-posh/
+ls ~/.local/bin/oh-my-posh
+mkdir .poshthemes
+cd .poshthemes/
+ls
+..
+ls
+mv M365Princess.omp.json ~/.poshthemes/
+ls
+cd .poshthemes/
+ls
+pwd
+config
+oh-my-posh config
+oh-my-posh init
+oh-my-posh get shell
+oh-my-posh init nu
+source ~/.oh-my-posh.nu
+bat ~/.oh-my-posh.nu
+source ~/.oh-my-posh.nu
+ls
+bat ~/.oh-my-posh.nu
+config nu
+ls
+v ~/.oh-my-posh.nu
+nvim .oh-my-posh.nu
+oh-my-posh init nu --config ~/.poshthemes/M365Princess.omp.json
+source ~/.oh-my-posh.nu
+oh-my-posh init nu
+source ~/.oh-my-posh.nu
+clear
+ls
+v
+addr
+pwd
+addr
+/home/mike<\n>
+cd /home/mike<\n>
+clear
+ls
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+cd part7
+clear
+ls
+cd bloglist/
+ls
+addr
+/home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+clear
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+clear
+ls
+clear
+ls
+cd client_redux/
+ls
+cd server/
+ls
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+ls
+cd client_redux/
+ls
+cd src/
+ls
+cd components/
+ls
+mv reducers/ ../
+ls
+npm install react-redux
+cd coding/fullstackopen/
+ls
+cd FullStackOpen_2023/
+ls
+cd part6
+ls
+cd redux-anecdotes/
+npm uninstall redux
+npm install redux
+npm install @reduxjs/toolkit
+mpv screenrecording/shell_variables.gif
+mpv screenrecording/inhibitors.gif
+mpv screenrecording/shell_variables.gif
+clear
+cd coding/42sh/
+ls
+cd includes/
+ls
+v
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+cd part4
+ls
+cd blog_list/
+v
+..
+cd part6
+..
+ls
+cd part5/
+ls
+v
+clear
+ls
+cd ~/.local/src/dwmblocks/
+v config.h
+sudo make clean install
+npm start
+npm run dev
+v
+..
+ls
+git status
+git add part7
+g status
+git status
+git commit -m "react query for bloglist complete"
+git push
+git status
+ls
+cd part7
+cd bloglist/
+ls
+discord
+.screenlayout/standard.sh
+picom
+p -S picom-jonaburg-git 
+pacman -S picom-jonaburg-git 
+sudo pacman -S picom-jonaburg-git 
+sudo yay -S picom-jonaburg-git 
+yay -S picom-jonaburg-git 
+cd /etc/xdg/
+ls
+mkdir ~/.config/picom
+cp picom.conf.example ~/.config/picom/picom.conf
+cd ~/.config/picom
+ls
+v picom.conf
+picom --experimental-backends -b
+clear
+ls
+cd .config/picom/
+inxi
+xcompmgr
+xcompmgr --help
+xcompmgr -c -f
+bat .xprofile
+xcompmgr
+picom --experimental-backends -b
+clear
+v
+clear
+clear
+xcompmgr -c -f
+bat .xprofile
+ls
+cd ~
+bat .xprofile
+sudo time_update
+picom --experimental-backends -b
+v .xprofile
+v
+ls
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+cd part7
+ls
+clear
+cd .config/picom/
+cd ~/.config/picom/
+ls
+v picom.conf
+.screenlayout/standard.sh
+cd ~
+.screenlayout/standard.sh
+peek
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+cd part7
+ls
+cd bloglist/
+ls
+cd client_redux/
+addr
+/home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist/client_redux<\n>
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist/client_redux<\n>
+clear
+ls
+..
+ls
+cd server/
+ls
+clear
+ls
+cd .config/nvim
+v
+ls
+v
+cd ..
+cd .local/src/st/
+ls
+v config.h
+cd ~/.local/src/dwm
+v config.h
+cd ~/.local/src/st/
+ls
+cd ~/.config/nvim/
+v
+cd -
+v
+kitty
+clear
+..
+ls
+git status
+ls
+cd dwm
+ls
+cp dwm.c dwm.backup
+bat dwm.backup
+v
+ls
+wget
+clear
+ls
+cd dwm/ls
+cd dwm/
+ls
+..
+ls
+cd st/
+g status
+git status
+cd .config/picom/
+ls
+v picom.conf
+.screenlayout/standard.sh
+clear
+ls
+cd wallpaper/
+ls
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+addr
+cd client_redux/
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+npm run dev
+ls
+cd ser
+cd server/
+clear
+ls
+clear
+ls
+/home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+ls
+cd client_redux/
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+cd client_redux/
+coding/
+cd coding/fullstackopen/part6_studies/
+ls
+..
+ls
+cd FullStackOpen_2023/
+ls
+cd part6/ls
+cd part6/
+ls
+cd redux-anecdotes/
+git status
+..
+ls
+git..
+cd ..
+git status
+git add *
+git commit -m "completed react query and redux excercises"
+git push
+.screenlayout/standard.sh
+cd iiils
+clear
+cd .config/picom/
+ls
+cd coding/fullstackopen/submissions/part7/
+ls
+cd ..
+..
+ls
+cd FullStackOpen_2023/
+ls
+..
+ls
+rm -rf submissions/
+ls
+cd FullStackOpen_2023/part7/
+ls
+cd bloglist/
+addr
+/home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+clear
+ls
+cd client_redux/
+ls
+cd client_redux/
+cd server/
+bluman
+blueman
+cd coding/fullstackopen/submissions/part7/
+ls
+cd coding/fullstackopen/FullStackOpen_2023/
+;s
+ls
+cd part7/
+ls
+cd routed-anecdotes/
+ls
+npm install react-dom/client
+npm install react-router-dom
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist/client_redux<\n>
+ls
+..
+ls
+cd server/
+ls
+cd controllers/
+ls
+..
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+cd part3/
+ls
+cd notes-backend/
+ls
+..
+ls
+..
+ls
+cd part5/ls
+cd part5/
+ls
+..
+cd part4
+ls
+cd blog_list/
+l
+ls
+npm start
+npm run dev
+git status
+git add *
+git commit -m "struggling with the User component"
+git push
+insomnia
+ls
+..
+ls
+git status
+..
+ls
+git status
+git add *
+git commit -m "struggling with the User component"
+git push
+git branch
+..
+ls
+git status
+git push
+discord 
+ls
+clear
+ls
+ls
+xrandr
+.screenlayout/standard.sh
+xrandr
+cd .local/
+ls
+cd /etc/X11/xorg.conf.d/
+ls
+lspci
+Xorg -configure
+sudo Xorg -configure
+xorgconfig
+cd /etc/X11/xorg.conf.d/
+ls
+lspci | grep VGA
+optimus-manager
+p -Q
+pacman -Q
+pacman -Q | grep nvidia
+env | grep DISPLAY
+env
+env | grep DESKTOP_SESSION
+pacman -Q | grep nvidia
+pacman -R nvidia-prime
+ls
+cd myscripts/
+ls
+chmod +x graphics*
+ls -la
+graphics_on
+optimus-manager
+p -Q | grep optimus
+pacman -Q | grep optimus
+pacman -S optimus-manager-runit
+sudo sv status optimus-manager
+cd /usr/share/
+;s
+ls
+optimus-manager
+clear
+yay -S optimus-prime-runit
+p -Q | grep optimus
+pacman -Q | grep optimus
+sudo time_update
+bat optimus-manager.conf
+cd ~
+ls
+ls -a
+bat .xprofile
+cd .config/shell/
+ls
+v
+sudo sv status optimus-manager
+sudo sv start optimus-manager
+ls
+sudo sv start optimus-manager
+ls
+ls -a
+ls .xprofile
+ls -a .xprofile
+ls -h
+ls -l .xprofile
+cd .config/x11/
+ls
+cd .config/shell/
+ls
+v
+clear
+ls
+cd ~
+v .xprofile
+v
+clear
+pwd
+cd ~
+ls
+ls -a
+cd .config/x11/
+ls
+v .xprofile
+v
+cd .config/x11/
+ls
+mkdir backup
+cp xinitrc backup/
+cp xprofile backup/
+cp xresources backup/
+ls
+v
+sudo sv start optimus-manager
+sudo sv status optimus-manager
+sudo sv start optimus-manager
+sudo sv status optimus-manager
+sudo sv restart NetworkManager
+optimus-manager
+rsm
+prime-offload optimus-manager
+prime-switch
+p -S optimus-manager
+sudo pacman -S optimus-manager-openrc lightdm-optimus-openrc
+sudo pacman -S optimus-manager-runit lightdm-optimus-runit
+sudo ln -s /etc/runit/sv/lightdm/ /run/runit/service/
+sudo ln -s /etc/runit/sv/optimus-manager/ /run/runit/service/
+sv start lightdm
+blueman
+v .config/x11/
+clear
+lspci | grep VGA
+.screenlayout/standard.sh
+ls
+cd ..
+ls
+cd mike/envycontrol/
+ls
+.screenlayout/standard.sh
+lspci | grep VGA
+ls
+cd envycontrol/
+ls
+sudo ./envycontrol.py --switch nvidia
+lspci | grep VGA
+glxinfo
+glxinfo | grep rendered
+glxinfo | grep renderer
+pacman -Q | grep nvidia
+pacman -Q | grep linux
+pacman -U | /var/cache/pacman/pkg/linux-6.3.9.artix1-1-x86_64.pkg.tar.zst
+sudo pacman -U | /var/cache/pacman/pkg/linux-6.3.9.artix1-1-x86_64.pkg.tar.zst
+sudo pacman -U | /var/cache/pacman/pkg/linux-6.3.9.artix1-1-x86_64.pkg.tar.zst.sig
+sudo pacman -U /var/cache/pacman/pkg/linux-6.3.9.artix1-1-x86_64.pkg.tar.zst
+npm -version
+sudo reboot
+glxinfo | grep renderer
+pacman -U /var/cache/pacman/pkg/linux-6.3.9.artix1-1-x86_64.pkg.tar.zst
+.screenlayout/standard.sh
+brave
+cd coding/fullstackopen/FullStackOpen_2023/
+cd part7
+ls
+cd bloglist/
+ls
+cd client_redux/
+ls
+glxinfo | grep renderer
+pacman -S neovide
+v
+clear
+cd ~/.config/nvim/
+ls
+..
+ls
+mv nvim nvim.nvchad
+mv nvim.backup nvim
+v
+nvim
+cd .config/
+cd nvim
+ls
+cd plugin/
+ls
+..
+ls
+vim init.lua
+cd lua/
+ls
+nvim plugins.lua
+nvim
+clear
+ls
+nvim
+neovide
+clear
+neovinvim
+nvim
+neovide
+..
+ls
+..
+ls
+eard n
+clear
+ls
+clear
+ls
+clear
+mv nvim nvim.personal
+mkdir nvim
+cd nvim
+ls
+touch init.lua
+ls
+..
+ls
+cd ~/.config/nvim/
+ls
+..
+cd nvim.personal/
+;s
+ls
+bat init.lua
+neovide
+cd  ~/.config/neovide
+neovide -v
+neovide --version
+neovide --frame
+neovide --frame full
+neovide --maximized
+neovide --multigrid
+neovide --multigrid --novsync
+neovide
+cd ~/.config/nvim/
+ls
+..
+ls
+mv nvim nvim.neovide
+mv nvim.personal/ nvim
+clear
+ls
+neovide
+v init.lua
+..
+ls
+cd nvim.neovide/
+nvim
+clea
+clear
+ls
+ls
+cd nvim/
+ls
+clear
+ls
+nvim init.lua
+neovide
+neovide..
+clear
+ls
+..
+ls
+cd nvim
+ls
+clear
+neovide
+neovide --block
+neovide -- --block
+neovide
+neovide --multigrid --novsync --block
+neovide --multigrid --novsync -- --block
+neovide --multigrid --novsync
+neovide --multigrid --novsync --frame
+neovide --multigrid --novsync --frame full
+cd .config/
+ls
+cd nvim
+ls
+neovide --multigrid --novsync --frame full
+fc-list
+fc-list | grep jet
+fc-list | grep Jet
+neovide
+neovide --multigrid --novsync --frame full
+neovide --multigrid --novsync --frame full
+neovide
+neovide --multigrid --novsync --frame full
+neovide
+neovide --multigrid --novsync --frame full
+neovide
+neovide --multigrid --novsync --frame full
+neovide --multigrid --novsync
+xrandr
+bat .screenlayout/standard.sh
+xrandr --output DP-1 --rate 143.99
+xrandr --output DP-1 --primary --mode 2560x1440 --pos 0x0 --rotate normal --rate 143.99
+neovide --multigrid --novsync --frame full
+neovide --multigrid --novsync
+vim .screenlayout/standard.sh
+ls
+.screenlayout/standard.sh
+neovide --multigrid --novsync
+vim .screenlayout/standard.sh
+neovide --multigrid --novsync
+xrandr --output DP-1 --primary --mode 2560x1440 --pos 0x0 --rotate normal --rate 140.00
+arandr
+xrai
+xrandr --output DP-1 --rate 140
+xrandr --output DP-1 --mode 2560x1440 --rate 140.00
+neovide --multigrid --novsync
+neovide --multigrid --novsync --frame full
+clear
+cd nvim
+cd .config/nvim
+ls
+nvim
+ls
+..
+l
+ls
+cd nvim.neovide/
+ls
+v
+..
+ls
+cd nvim
+ls
+nvim
+neovide --multigrid --novsync
+neovide --multigrid --novsync --frame full
+neovide
+neovide --multigrid --novsync
+htop
+clear
+neovide --multigrid --novsync
+cd .config/
+mkdir neovide
+cd neovide/
+touch config.toml
+v config.toml
+neovide
+/usr/bin/nvim
+neovide
+nvim
+neovide
+nvim
+neovide
+ls
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+v
+..
+ls
+..
+ls
+mv nvim nvim.per
+mv nvim.per nvim.personal
+mv nvim.nvchad/ nvim
+nvim
+clear
+ls
+cd nvim
+ls
+cd .config/nvim.personal/
+v
+neovide
+clear
+neovide
+xrandr --output DP-1 --mode 2560x1440 --rate 140.00
+neovide
+cd .config/neovide/
+ls
+neovide
+cd .config/nvim
+neovide
+neovide -v
+neovide -- -v
+neovide -version
+neovide -h
+neovide -V
+neovide
+neovide --remote-tcp=localhost:6666
+nvim --headless --listen localhost:6666
+v config.toml
+ls
+mv config.toml config
+ls
+neovide --frame full
+neovide --multigrid --novsync
+neovide --frame full --multigrid --novsync
+mv config config.tom
+mv config.tom config.toml
+clear
+ls
+clear
+neovide
+nvim config.toml
+fc-list | grep Jet
+clear\
+neovide
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+ls
+clear
+ls
+cd client_redux/
+neovide
+cd .config/nvim.neovide/ls
+cd .config/nvim
+ls
+neovide
+nvim
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+cd .config/nvim
+nvim
+nvim
+nvim config.toml
+ls
+nvim
+clear
+neovide
+nvim
+cd .config/neovide/
+cd ~/.config/neovide/
+ls
+vim config.toml
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+cd server/
+cd client_redux/
+npm run dev
+cd coding/fullstackopen/FullStackOpen_2023/part6
+ls
+cd redux-anecdotes/
+ls
+neovide 
+cd .local/src/dwm
+ls
+nvim config.h
+sudo make clean install
+xrandr --output DP-1 --mode 2560x1440 --rate 140.00
+.local/src/dwm/
+ls
+neovide
+sudo make clean install
+xrandr --output DP-1 --mode 2560x1440 --rate 140.00
+ls
+cd myscripts/
+neovide
+chmod +x DP-1
+ls
+rm graphics*
+ls
+clear
+cd ~/coding/fullstackopen/FullStackOpen_2023/part7/
+cd bloglist/
+clear
+ls
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+ls
+clear
+ls
+cd server/
+ls
+cd client_redux/
+ls
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+cd client_redux/
+cd client_redux/
+ls
+neovide
+cd coding/fullstackopen/FullStackOpen_2023/part6
+ls
+cd redux-anecdotes/
+neovide
+cd coding/fullstackopen/FullStackOpen_2023/part6
+ls
+..
+ls
+cd part7
+ls
+cd routed-anecdotes/
+neovide
+cd .config/picom/
+ls
+bat picom.conf
+DP-1
+cd /etc/modprobe.d/
+ls
+neovide
+glxinfo | grep renderer
+clear
+bat .xprofile
+cd ~
+bat .xprofile
+neovide .xprofile
+DP-1
+sudo sv restart NetworkManager
+clear
+ls
+cd .config/nushell/
+ls
+neovide
+cd ..
+cd .config/nvim
+nv
+cd ~/.config/nvim.personal/
+ls
+bat lua/maps.lua
+v lua/maps.lua
+..
+cd neovide
+bat config.toml
+cd coding/fullstackopen/FullStackOpen_2023/part6
+neovide
+../part7/
+ls
+cd bloglist/client_redux/
+nv
+v config.toml
+..
+ls
+cd .config/nvim
+v
+neovide --multiGrid
+peek
+ls
+bat neovide_backtraces.log
+rm neovide_backtraces.log
+clear
+ls
+cd lsp
+ls
+cd .local
+..
+cd .local/
+ls
+cd lib/
+ls
+..
+ls
+cd bin
+ls
+..
+ls
+cd share/
+ls
+..
+ls
+cd src/
+ls
+..
+ls
+..
+ls
+mv lsp .local/src/
+ls
+mv envycontrol/ .local/src/
+ls
+cd .local/
+ls
+cd src
+ls
+clear
+nv
+bluman
+blueman
+cd coding/fullstackopen/FullStackOpen_2023/part7/
+cd bloglist/
+addr
+cd client_redux/
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+npm run dev
+ls
+cd server/
+ls
+clear
+cd coding/fullstackopen/FullStackOpen_2023/part7/
+nv
+cd coding/fullstackopen/FullStackOpen_2023/part7/
+ls
+cd routed-anecdotes/
+clear
+ls
+nv
+pwd
+:q
+git status
+..
+clear
+git status
+git add *
+git commit -m "exercise 7.15 completed"
+git push
+ls
+mpv screencast-230709-1907-55.mp4
+rm screencast-230709-1907-55.mp4
+clear
+ls
+mpv screencast-230709-1908-41.mp4
+keet
+yay -Syu
+clear
+keet
+cd coding/fullstackopen/FullStackOpen_2023/part7/
+ls
+cd routed-anecdotes/
+ls
+neovide
+cd coding/fullstackopen/FullStackOpen_2023/part7/routed-anecdotes/
+nv
+ls
+..
+ls
+cd country-hook/
+ls
+nv
+ls
+..
+ls
+cd routed-anecdotes/
+nv
+git status
+rm neovide_backtraces.log
+ls
+..
+ls
+..
+git status
+git add *
+git status
+git commit -m "exercise 7.16-7.17 completed"
+git push
+git status
+cd /etc/X11/xorg.conf.d/
+ls
+mv `40-libinput` 40-libinput.conf
+sudo mv `40-libinput` 40-libinput.conf
+ls
+bat `10-monitors`
+bat `40-libinput.conf`
+sudo poweroff
+DP-1
+dis
+cd coding/portfolio/portfolio_website
+neovide
+addr
+/home/mike/coding/portfolio/portfolio_website<\n>
+cd /home/mike/coding/portfolio/portfolio_website<\n>
+ls
+bat package.json
+cd /home/mike/coding/portfolio/portfolio_website<\n>
+ls
+git status
+git add *
+git status
+ls
+cd src/assets/
+ls
+rm mbarutel_cv.pdf
+ls
+..
+ls
+git status
+git add *
+git status
+git commit -m "updated CV accessing"
+git ush
+git push
+sudo time_update
+cd ~/coding/fullstackopen/FullStackOpen_2023/part7/
+ls
+cd blog
+cd bloglist/
+ls
+addr
+brave
+/home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+ls
+cd server/
+cd client_redux/
+ls
+pulsemixer
+ls
+neovide
+ls
+git status
+git stash
+git status
+clear
+nv
+discord
+DP-1
+sudo sv restart NetworkManager
+pulse
+pulsemixer
+blueman
+clear
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+cd server
+ls
+cd client_redux/
+npm run dev
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+ls
+cd client_reactquery/
+nv
+sudo time_update
+..
+ls
+nv
+keet
+yay -Syu
+git status
+git checkout -b comments
+clear
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/client_redux/
+cd .config/nvim
+cd ~/.config/nvim
+nv
+cd -
+ls
+nv
+..
+ls
+rm neovide_backtraces.log
+nv
+brave
+pulsemixer
+yay -S vscode
+yay -S code
+clear
+ls
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/client_redux/
+code .
+nv
+clear
+ls
+..
+ls
+git status
+git add *
+git commit -m "added comments functionality in client_redux"
+git push
+git push comments
+git status
+git checkout main
+git status
+git merge comments
+git log
+git push
+clear
+git branch
+git branch --delete comments
+ls
+cd part7/bloglist/
+ls
+nv
+npm install react-bootstrap
+cd ~/.config/nvim
+nv
+cd -
+nv
+git staus
+git status
+clear
+ls
+clear
+git checkout -b styling
+clear
+ls
+..
+ls
+..
+ls
+..
+ls
+cd part6_studies/
+ls
+cd redux-notes-random/
+ls
+nv
+clear
+ls
+..
+ls
+..
+ls
+cd FullStackOpen_2023/part6
+ls
+npm uninstall react-bootstrap
+git status
+git stash
+npm install @mui/material @emotion/react @emotion/styled
+npm ls react-dom
+npm ls react
+clear
+npm uninstall @mui/material @emotion/react @emotion/styled
+clear
+npm install react-bootstrap
+clear
+ls
+npm install react-bootstrap
+ls
+rm -rf node_modules/
+ls
+cd client_redux/
+npm install react-bootstrap
+..\
+..
+ls
+cd part7
+ls
+git status
+git add *
+git commit -m "update on styling"
+git push
+git push origin styling
+puls
+pulsemixer
+blueman
+sudo sv restart NetworkManager
+nv
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/client_redux/
+nv
+npm start
+npm run dev
+insomnia
+discord
+DP-1
+sudo sv restart NetworkManager
+lspci -nnk | grep -EA3 
+lspci -nnk | grep -EA3 "3D|VGA"
+ls /lib/modules/`uname -r`/kernel/drivers/char/drm/
+ls /lib/modprobe.d/	
+bat /lib/modprobe.d/nvidia-utils.conf
+p -Q | grep linux
+pacman -Q | grep linux
+xrandr
+xrandr --output eDP-1 --mode 1920x1080 --rate 140.00
+clear
+xrandr
+dmesg
+blueman
+dmesg | grep mod
+dmesg | grep xrandr
+dmesg 
+dmesg | grep mod
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/client_redux/
+nv
+cd ~/.config/nvim
+v
+cd -
+nv
+..
+nv
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+ls
+cd client_redux/
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part7/bloglist<\n>
+cd server/
+ls
+clear
+npm start
+xrandr
+cd myscripts/
+ls
+vim DP-1
+DP-1
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/client_redux/
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+ls
+cd server/
+npm start
+ls
+npmtart
+npm start
+ls
+npm start
+npm run dev
+clear
+npm start
+cd coding/fullstackopen/FullStackOpen_2023/part7/bloglist/
+ls
+nv
+cd ~/.config/nvim
+nv
+v
+cd -
+nv
+blueman
+ls
+cd server/
+ls
+ls -a
+git status
+git status
+git checkout -b comments_update
+git checkout styling
+git stash\
+git stash
+git stats
+nv
+git status
+cd .config/nushell/
+ls
+gstat
+v config.nu
+gstat
+gadd *
+..
+gstat
+..
+ls
+g status
+gstat
+gcom
+g status
+clear
+gcom "styling for bloglist complete. part 7 ready to submit"
+g commit -m "styling for bloglist complete. part 7 ready to submit"
+gpush
+gstat
+git checkout main
+git merge styling
+git push
+g branch
+g branch --delete styling
+g branch
+g branch --delete comments_update
+v .config/nushell/config.nu
+g branch
+g stat
+g status
+..
+clear
+..
+clear
+DP-1
+nv
+cd .config/nvim
+..
+ls nvim
+v
+ls
+cd nvim
+ls
+rm screencast-230709-1908-41.mp4
+clear
+ls
+bindkey
+clear
+ls
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+..
+ls
+mkdir part8_studies
+clear
+ls
+cd part8
+ls
+cd coding/fullstackopen/FullStackOpen_2023/
+..
+ls
+cd part8_studies/
+ls
+mkdir apollo_testing
+cd apollo_testing/
+npm init
+ls
+npm install @apollo/server graphql
+ls
+npm install
+ls
+nv
+cd coding/portfolio/portfolio_website
+cd coding/Todo_app/
+brave
+addr
+cd /home/mike/coding/fullstackopen/part8_studies/apollo_testing<\n>
+clear
+ls
+node index.js
+clear
+node index.js
+clear
+node index.js
+blueman\
+blueman
+sudo sv restart NetworkManager
+pulsemixer
+cd .config/picom/
+ls
+ls
+clear
+cd coding/fullstackopen/
+ls
+cd part8_studies/
+ls
+cd apollo_testing/
+discord
+clear
+cd .config/nvim
+cd .config/nvim.per
+cd .config/nvim.personal/
+ls
+cd .config/nvim
+v
+v
+clear
+ls
+v
+v
+v
+clear
+cd .config/nvim
+cd ~/.config/nvim
+c
+v
+cd -
+clear
+ls
+node index.js
+clear
+node index.js
+clear
+sudo update_time
+sudo time_update
+node index.js
+clear
+node index.js
+npm install graphql
+ls
+npm install graphql
+node index.js
+clear
+node index.js
+clear
+node index.js
+v
+..
+ls
+clear
+..
+ls
+cd FullStackOpen_2023/
+ls
+mkdir part8
+ls
+cd part8
+ls
+mkdir graphql-server
+cd graphql-server/
+npm init
+npm install @apollo/server graphql
+ls
+touch index.js
+..
+ls
+..
+ls
+cd FullStackOpen_2023/part8/
+ls
+clear
+cd graphql-server/
+cd coding/fullstackopen/part8_studies/
+clear
+ls
+cd apollo_testing/
+clear
+clear
+node index.js
+git status
+clear
+ls -a
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+git status
+..
+ls
+git status
+git add *
+git staus
+git status
+git commit -m "completed 8.1 - 8.3"
+git push
+v
+:q
+sudo sv restart NetworkManager
+DP-1
+blueman
+cd /etc/X11/xorg.conf.d/
+ls
+bat `10-monitors`
+bat `40-libinput.conf`
+dadasdasdas
+..
+ls
+cd xinit/
+ls
+bat xinitrc
+clear
+ls
+cd xinitrc.d/
+ls
+..
+cd /
+ls
+Xorg :0 -configure
+ls
+cd coding/fullstackopen/p
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+cd part8/ls
+cd part8/
+ls
+cd graphql-server/
+ls
+clear
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8/graphql-server<\n>
+ls
+clear
+..
+ls
+..
+ls
+cd part8_studies/
+ls
+node index.js
+clear
+ls
+cd apollo_testing/
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+ls
+clear
+node index.js
+v apollo_testing/
+cd .config/nvim
+clear
+ls
+v
+v
+v
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+v
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+git status
+git add *
+git log
+g commit -m "completed 8.4 to 8.5"
+g push
+node index.js
+clear
+node index.js
+clear
+node index.js
+v
+git status
+v
+blueman
+sudo sv restart NetworkManager
+cd coding/fullstackopen/FullStackOpen_2023/
+clear
+ls
+clear
+ls
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023<\n>
+clear
+ls
+clear
+ls
+cd part8
+cd part8
+clear
+ls
+cd graphql-server/
+clear
+ls
+clear
+ls
+cd graphql-server/
+ls
+clear
+clear
+ls
+node index.js
+clear
+node index.js
+clear
+node index.js
+cd coding/fullstackopen/FullStackOpen_2023/
+..
+cd part8_studies/
+ls
+cd apollo_testing/
+node index.js
+clear
+node index.js\
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+git status
+git add index.js
+git commit -m "completed 8.6"
+htop
+blueman
+clear
+node index.js
+git status
+git add index.js
+git commit -m "completed 8.7"
+git push
+:q
+v
+v
+DP-1
+blueman
+cd .config/nvim
+ls
+clear
+ls
+v
+clear
+ls
+v
+..
+ls
+cd nvim.personal/
+ls
+v
+clear
+..
+ls
+cd nvim
+v
+clear
+ls
+..
+clear
+ls
+clear
+ls
+v
+clear
+ls
+clear
+ls nvim
+..
+clear
+ls
+ls 
+cd .config/
+ls | grep nvim
+mv nvim nvim.nvchad
+mv ~/.local/share/nvim ~/.local/share/nvim.bak
+mv ~/.local/state/nvim ~/.local/state/nvim.bak
+mv ~/.cache/nvim ~/.cache/nvim.bak
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+v
+clear
+ls
+cd nvim
+clear
+v
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+cd part8
+ls
+cd graphql-server/
+ls
+v
+ls
+v
+v .
+clear
+ls
+..
+ls
+rm -rf nvim
+ls | grep nvim
+mv nvim.nvchad/ nvim
+..
+cd .local/share/
+clear
+ls
+rm nvim
+rm -rf nvim
+clear
+ls
+mv nvim.bak/ nvim
+..
+ls
+cd state/
+ls
+rm nvim
+rm -rf nvim
+ls
+mv nvim.bak/ nvim
+..
+cd .cache/
+ls
+rm -rf nvim
+mv nvim.bak/ nvim
+clear
+ls
+..
+cd .config/nvim
+clear
+v
+clear
+cd .config/nvim
+discord
+v
+nv
+clear
+neovide --multigrid --novsync
+nv
+clear
+cd coding/fullstackopen/FullStackOpen_2023/
+sudo time_update
+clear
+ls
+cd part8
+ls
+cd graphql-server/
+ls
+nv
+cd coding/fullstackopen/FullStackOpen_2023/part8
+ls
+cd graphql-server/
+clear
+ls
+clear
+ls
+..
+ls
+git clone https://github.com/fullstack-hy2020/graphql-phonebook-backend.git
+..
+ls
+cd graphql-phonebook-backend/
+clear
+ls
+nv
+ear
+ls
+cd graphql-phonebook-backend/
+ls
+node index.js
+npm install
+node index.js
+clear
+ls
+..
+ls
+rm rf graphql-phonebook-backend/
+rm -rf graphql-phonebook-backend/
+clear
+ls
+..
+ls
+..
+ls
+cd part8_studies/
+ls
+clear
+nv
+clear
+ls
+cd apollo_testing/
+ls
+clear
+ls
+..
+ls
+mv apollo_testing/ apollo_server
+ls
+yay -Syu
+clear
+npx create-react-app apollo_client
+ls
+cd apollo_client/
+addr
+cd /home/mike/coding/fullstackopen/part8_studies/apollo_client<\n>
+clear
+ls
+nv
+clear
+clear
+..
+ls
+cd apollo_server/
+npm install @apollo/client graphql
+l;s
+ls
+l
+ls
+clear
+ls
+clear
+node index.js
+clear
+npm start
+..
+cd ..
+ls
+..
+ls
+cd part8_studies/\
+cd part8_studies/
+ls
+nv
+node index.js
+clear
+node index.js
+clear
+clear
+v ~/.config/nvim
+nvim ~/.config/nvim
+~/.config/nvim
+v
+cd -
+nv
+blueman
+cd .config/nvim
+node index.js
+clear
+sudo sv restart NetworkManager
+cd .config/nvim
+nv
+cd ~/.config/neovide/
+v
+cd -
+nv
+blueman
+clear
+ls
+..
+ls
+cd FullStackOpen_2023/
+ls
+cd part8
+ls
+git clone https://github.com/fullstack-hy2020/library-frontend.git
+node index.js
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+ls
+clear
+cd graphql-server/
+ls
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+ls
+cd library-frontend/
+ls
+npm install
+clear
+ls
+clear
+ls
+nv
+ls
+cd library-frontend/
+ls
+ls -a
+rm -rf .git/
+npm install @apollo/client graphql
+git status
+..
+ls
+git status
+git add part8
+git status
+git commit -m "Need to rerender after adding a book"
+git push
+npm start
+node index.js
+DP-1
+sudo sv restart NetworkManager
+sudo time_update
+brave
+ear
+clear
+cd coding/fullstackopen/FullStackOpen_2023/part8
+ls
+bat pa
+bat package.json
+rm -rf node_modules/
+rm package-lock.json
+rm package.json
+ls
+bat graphql-server/package.json
+bat library-frontend/package.json
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+ls
+cd library-frontend/
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+ls
+cd graphql-server/
+clear
+clear
+ls
+npm start
+clear
+npm install @apollo/client graphql
+clear
+clear
+ls
+nv
+yay -S neovim-git
+yay -S neovide-git
+g log
+..
+ls
+cd part8
+..
+ls
+..
+ls
+cd part8_studies/
+ls
+nv
+nu
+cleae
+node index.js
+clear
+node index.js
+g status
+git add *
+git commit -m "completed 8.11"
+git push
+clear
+yay -Syu
+clear\
+clear
+clear\
+g status
+ls
+rm \\
+rm \
+ls
+..
+ls
+g status
+git add *
+g status
+ls
+cd part8
+ls
+g status
+g commit -m "completed 8.12, and removed 8.11 functionality"
+git push\
+g push
+sudo sv restart NetworkManager
+DP-1
+clear
+ls
+cd coding/fullstackopen/part8_studies/
+ls
+clear
+cd apollo_client/
+addr
+cd /home/mike/coding/fullstackopen/part8_studies/apollo_client<\n>
+ls
+l
+cd ~/.config/nushell/
+ls
+v
+l
+clear
+ls
+cd nvim
+cd coding/fullstackopen/part8_studies/
+ls
+ls
+..
+cd apollo_server/
+ls
+nv
+cd coding/fullstackopen/FullStackOpen_2023/part3
+ls
+ccd notes-backend/
+ls
+cd notes-backend/
+ls
+..
+ls
+cd phonebook_backend/
+ls
+cd models/
+ls
+bat phonebook.js
+q
+ls
+cd apollo_server/
+clerar
+clear
+ls
+..
+ls
+..
+ls
+..
+ls
+npm install mongoose dotenv
+v
+ls
+..
+ls
+..
+ls
+cd fullstackopen/
+ls
+cd part7_studies/
+ls
+..
+ls
+cd part6_studies/
+ls
+cd redux-notes-random/
+ls
+..
+ls
+..
+ls
+cd FullStackOpen_2023/
+ls
+cd part7
+ls
+cd bloglist/
+ls
+cd server/
+ls
+ls -la
+bat .env
+cat .env | copy
+htop
+clear
+htop
+glxinfo | grep renderer
+ear
+clear
+ls
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+npm install jsonwebtoken
+sudo sv restart NetworkManager
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+..
+ls
+cd part8_studies/
+ls
+nvim -R .
+nvim -M .
+:q
+npm start
+..
+clear
+ls
+cd astudio/
+ls
+rm *
+clear
+ls
+rm -rf node_modules/
+rm -rf public/
+rm -rf src/
+clear
+ls
+npx create-react-app astudio_react
+nv
+addr
+cd /home/mike/coding/astudio<\n>
+npm start
+ls
+cd astudio_react/
+ls
+clear
+cd ~/coding/portfolio/
+ls
+cd astudio_react/
+ls
+cd src/
+ls
+cd components/
+ls
+mkdir header
+mkdir navbar
+ls
+mv Header.js header/
+mv Navbar.js navbar/
+..
+ls
+mkdir assets
+sudo sv restart NetworkManager
+brave
+clear
+a
+brave
+clear
+chrome
+chromium
+librewolf
+ls
+cd astudio_react/
+ls
+cd src/
+ls
+cd assets/
+ls
+l
+unzip Photo-20230713T142957Z-001.zip
+clear
+ls
+rm Photo-20230713T142957Z-001.zip
+ls
+cd Photo/
+ls
+lf
+sudo sv restart NetworkManager
+brave
+cd coding/astudio/
+ls
+cd astudio_react/
+ls
+DP-1
+cd coding/astudio/astudio_react
+nv
+sudo sv restart NetworkManager
+git status
+ls
+cd src
+ks
+l
+cd components/about/
+l
+mv cta ../
+mv services/ ../
+..
+ls
+clear
+ls
+cd src/
+ls
+cd components/
+ls
+cd about/
+mv contact/ ../
+cd ~/coding/portfolio/portfolio_website/
+nv
+ls
+cd src/assets/
+ls
+..
+ls
+cd astudio/astudio_react/
+ls
+cd src/
+ls
+cd assets/
+ls
+un astudio_larnaca.zip
+unzip astudio_larnaca.zip
+ls
+rm astudio_larnaca.zip
+clear
+brave
+yay -Syu
+yay -S chromium
+npm install react-icons
+git status
+ll
+..
+ls
+cd astudio_react/
+ls
+git status
+..
+ls
+git status
+git init
+git status
+git add *
+git commit -m "folliwing design from tilda exactly"
+clear
+npm start
+discord
+DP-1
+cd astudio_react/
+cd coding/astudio/astudio_react/
+ls
+cd coding/astudio/astudio_react/
+ls
+nv
+cd coding/portfolio/portfolio_website/
+cd .config/nvim
+ls
+..
+cd neovide/
+ls
+v config.toml
+nv
+l
+cd src/
+ls
+cd components/
+ls
+clear
+ls
+cd ~/coding/astudio/astudio_react/src/assets/
+ls
+rm astudio_larnaca.jpg
+ls
+cd Photo/
+ls
+.screenlayout/standard.sh
+git status
+v
+sudo time_update
+ls 
+ls | grid --color
+clear
+ls
+cd coding/
+ls
+git clone https://github.com/nushell/nushell.git
+cd nushell/
+ls
+cargo run
+clear
+ls
+ls nu
+nu
+cargo build --workspace; cargo run
+clear
+ls
+clear
+cd coding/nushell/
+ls
+cd src/
+cd .config/nushell/
+ls
+bat env.nu
+bat config.nu
+v
+v
+ls
+cd coding/astudio/astudio_react/
+ls
+nv
+addr
+cargo build --workspace; cargo run
+cargo run
+..
+cd /home/mike/coding/astudio/astudio_react<\n>
+clear
+ls
+.screenlayout/standard.sh
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+cd part8
+ls
+addr
+a
+cd graphql-server/
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+ls
+cd library-frontend/
+ls
+clear
+ls
+cd coding/fullstackopen/part8_studies/
+ls
+nv
+ls
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+ls
+nv
+ls
+cd library-frontend/
+clear
+ls
+npm install mongoose dotenv
+npm install mongoose-unique-validator
+node index.js
+clear
+node index.js
+ls
+bat package.json
+/mongoos
+..
+ls
+cd library-frontend/
+ls
+..
+ls
+cd graphql-server/
+ls
+npm install mongoose dotenv
+npm install mongoose-unique-validator
+..
+ls
+cd library-frontend/
+npm uninstall mongoose-unique-validator
+npm uninstall mongoose dotenv
+clear
+node index.js
+ls
+..
+ls
+cd library-frontend/
+..
+cd graphql-server/
+ls
+node index.js
+clear
+git status
+git commit -m "fetching of data seems to work. Need to fix mutations and the rest of the queries"
+git commit -a "fetching of data seems to work. Need to fix mutations and the rest of the queries"
+git status
+git add *
+git commit -a "fetching of data seems to work. Need to fix mutations and the rest of the queries"
+git commit -m "fetching of data seems to work. Need to fix mutations and the rest of the queries"
+git push
+sudo sv restart NetworkManager
+.screenlayout/standard.sh
+xrandr
+lsblk
+.screenlayout/standard.sh
+cd coding/portfolio/portfolio_website/
+clear
+ls
+brave
+cd coding/portfolio/portfolio_website/
+nv
+chromium
+cd coding/fullstackopen/FullStackOpen_2023/part8/
+ls
+addr
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+cd graphql-server/
+npm start
+node index.js
+ls
+cd graphql-server/
+node 
+..
+cd library-frontend/
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+ls
+nv
+git log
+cd coding/fullstackopen/part8_studies/
+ls
+node index.js
+clear
+node index.js
+clear
+node index.js
+cleart
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+git status
+git add *
+git commit -m "Working on editing Author. Born attribute needs to be checked on DB"
+git push
+npm start
+node index.js
+.screenlayout/
+ls
+standard.sh
+./standard.sh
+yay -Syu
+cd coding/fullstackopen/part8
+cd coding/fullstackopen/FullStackOpen_2023/part8/
+addr
+/home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+clear
+ls
+cd library-frontend/
+clear
+ls
+cd graphql-server/
+ls
+v
+clear
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+nv
+npm start
+clear
+npm start
+clear
+npm start
+cd cv
+zathura cv
+chromium
+zathura mbarutel_cv.pdf
+chromuim
+chromium
+ls
+.screenlayout/standard.sh
+lsblik
+lsblk
+sudo su
+sudo time_update
+.screenlayout/standard.sh
+cd coding/astudio/astudio_react/
+ls
+cd coding/astudio/astudio_react/
+nv
+addr
+cd /home/mike/coding/astudio/astudio_react<\n>
+clear
+git status
+git add *
+git commit -m "static file created with services"
+git checkout -b services
+clear
+cd coding/fullstackopen/FullStackOpen_2023/
+ls
+git status
+git add *
+git status
+git commit -m "base layout for services done"
+git checkout main
+git merge services
+git status
+git push
+ls
+git branch
+git remote add origin https://github.com/mike-ninja/a_studio.git
+git branch -M main
+git push -u origin main
+git status
+git push origin main
+git branch
+git branch -M master
+git branch
+git push
+git push --set-upstream origin master
+clear
+ls .git
+l
+ls -a
+..
+ls
+ls -a
+rm -rf .git
+git init
+git commit -m "first commit"
+git add *
+git commit -m "first commit"
+git branch -M master
+git branch
+git remote add origin git@github.com:mike-ninja/a_studio.git
+git push -u origin master
+clear
+ckear
+cd ~/coding/fullstackopen/FullStackOpen_2023/part8
+ls
+clear
+nv
+addr
+cd ~/coding/fullstackopen/FullStackOpen_2023/part8
+addr
+cd ~/coding/fullstackopen/FullStackOpen_2023/part8
+clear
+ls
+cd library-frontend/
+ls
+cd graphql-server/
+clear
+ls
+cd coding/fullstackopen/part8_studies/
+ls
+git status
+git add *
+git commit -m "completed 8.15"
+git push
+git log
+ls
+cd graphql-server/
+ls
+npm install jsonwebtoken
+npm start
+clear
+npm start
+clear
+npm start
+git status
+git add *
+git commit -m "completed 8.16"
+git push
+..
+ls
+cd part8_studies/
+ls
+nv
+addr
+cd /home/mike/coding/fullstackopen/part8_studies<\n>
+ls
+cd apollo_client/
+cd /home/mike/coding/fullstackopen/part8_studies<\n>
+ls
+cd apollo_server/
+node index.js
+npm start
+clear
+sudo sv restart NetworkManager
+clear
+sudo sv restart NetworkManager
+clear
+ls
+clear
+npm start
+ls
+npm start
+node index.js
+clear
+ls
+..
+ls
+..
+ls
+cd FullStackOpen_2023/part8/
+addr
+ls
+cd graphql-server/
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+ls
+cd library-frontend/
+clear
+cd /home/mike/coding/fullstackopen/FullStackOpen_2023/part8<\n>
+clear
+ls
+nv
+cd coding/fullstackopen/part8_studies/
+ls
+cd .config/nvim/
+ls
+v
+git status
+git add *
+git status
+git commit -m "completed 8.17 to 8.18"
+git push
+git status
+git add *
+git commit -m "nothing to update"
+git push
+iwtcl
+cd coding/portfolio/portfolio_website/
+ls
+brave
+clear
+cd coding/portfolio/portfolio_website/
+ls
+git branch
+git branch --delete upgrade_attemps
+git branch
+git branch --delete upgrade_attemp
+git branch --delete upgrade_attempt
+git branch
+git branch --delete animate_scroll
+clear
+git branch
+git checkout -b upgrade
+git status
+git add *
+git status
+git commit -m "removed tilt for about && added static file"
+git push origin upgrade
+npm uninstall react-tilt
+git status
+git add *
+git commit -m "removed all tilt"
+git push origin upgrade
+git checkout main
+git merge upgrade
+git push
+git status
+git add *
+git commit -m "minor change"
+git push
+git branch --delete upgrade
+chromium
+reboot
+sudo reboot
+lsblk
+cryptsetup open /dev/nvme1n1p2 box
+sudo cryptsetup open /dev/nvme1n1p2 box
+mount /dev/mapper/box /mnt
+sudo mount /dev/mapper/box /mnt
+sudo mount /dev/nvme1n1p1 /mnt/boot
+ls
+lsblk
+clear
+chroot /mnt bash
+sudo chroot /mnt bash
+clear
+reboot
+sudo reboot
+efibootmgr
+.screenlayout/standard.sh
+blueman
+cd coding/astudio/astudio_react/
+nv
+cd coding/astudio/astudio_react/
+git status
+ls
+npm install dotenv
+cd coding/fullstackopen/FullStackOpen_2023/part9
+cd coding/fullstackopen/FullStackOpen_2023/part8
+ls
+npm install axios
+npm install cors
+git log
+npm uninstall cors
+npm start
+clear
+clear
+ls
+..
+clear
+ls
+mkdir astudio_server
+nv
+ls
+cd astudio_server
+ls
+npm init -y
+clear
+ls
+npm install express axios
+touch server.js
+npm start
+clear
+ls
+addr
+cd /home/mike/coding/astudio/astudio_react<\n>
+ls
+..
+ls
+cd astudio_server/
+ls
+clear
+node server.js
+clear
+npm install dotenv
+ls
+rm package-lock.json package.json
+ls
+rm -rf node_modules/
+clear
+ls
+cd astudio_server/
+ls
+npm install dotenv
+l
+..
+l
+node server.js
+clear
+node server.js
+clear
+node server.js
+clear
+node server.js
+clear
+node server.js
+clear
+node server.js
+clear
+git status
+cd astudio_server/
+ls
+git status
+ls
+ls -la
+clear
+..
+ls
+ls -l
+ls -a
+cd astudio_react/ls
+ls
+mv astudio_react/.gitignore ./
+ls
+ls -a
+git stauts
+git status
+git add *
+git status
+clear
+ls
+git status
+clear
+git status
+git restore astudio_server/node_modules/
+git status
+git unstage astudio_server/node_modules/
+git reset astudio_server/node_modules/
+git status
+git reset astudio_react/node_modules/
+git status
+git add .gitignore
+git status
+git commit -m "instagram API base setup complete"
+git push
+xrandr
+clear
+xrandr
+clear
+xrandr
+clear
+xrandr
+xrand
+xrandr
+sudo sv restart NetworkManager
+.screenlayout/standard.sh
+blueman
+clear
+ls
+clear
+ls
+cd coding/astudio/
+addr
+cd /home/mike/coding/astudio<\n>
+clear
+ls
+cd astudio_react/
+sl
+ls
+clear
+clear
+ls
+cd astudio_server/
+clear
+cd /home/mike/coding/astudio<\n>
+ls
+nv
+clear
+ls
+cclear
+clear
+ls
+node server.js
+clear
+node server.js
+clear
+node server.js
+clear
+lf
+git clone https://github.com/github/copilot.vim.git \<\n>  ~/.config/nvim/pack/github/start/copilot.vim
+clear
+ls
+rm \
+rm \\
+c;ear
+;clear
+ls
+lf
+git clone https://github.com/github/copilot.vim.git ~/.config/nvim/pack/github/start/copilot.vim
+cd .config/nvim/
+ls
+cd pack/
+ls
+cd github/start/copilot.vim/
+ls
+cd lua/
+ls
+..
+ls
+..
+ls
+..
+ls
+..
+ls
+v
+clear
+v
+ls
+cd coding/astudio/
+nv
+git status
+clea
+g branch
+git checkout -b upgrade
+git add *
+git commit -m "working on services"
+git push
+git push origin upgrade
+yay -Syu
+poweroff
+sudo poweroff
+.screenlayout/standard.sh
+yay -Syu
+zimg
+clear
+lf
+clear
+ls
+yay -S neofetch
+yay -R neofetch
+cd coding/fullstackopen
+ls
+mkdir part9_studies
+cd part9_studies/
+nv
+blueman
+typescript
+sudo npm install -g ts-node typescript
+sudo npm uninstall -g ts-node typescript
+clear
+cd coding/fullstackopen/part9_studies/
+ls
+mkdir typescript-app
+cd  typescript-app/
+clear
+ls
+npm install --save-dev ts-node typescript
+cd .config/nvim/
+npm run ts-node -- multipliet.ts
+ls
+cd typescript-app/
+npm run ts-node -- multiplier.ts
+clear
+npm run ts-node -- multiplier.ts
+clear
+npm run ts-node -- multiplier.ts
+nv
+ls
+cd typescript-app/
+npm run ts-node -- multiplier.ts
+cd .config/nvim.personal/
+ls
+cd typescript-app/
+npm run ts-node -- multiplier.ts
+npm run ts-node -- multiplier.ts\
+cclear
+clear
+npm run ts-node -- multiplier.ts\
+npm run ts-node -- multiplier.ts
+ckear
+npm run ts-node -- multiplier.ts
+sudo sv restart NetworkManager
+npm run multiply 5 2
+ls
+cd typescript-app/
+ls
+npm run multiply 5 2
+clear
+ls
+npm run multiply 5 2
+clear
+ls
+npm run multiply 5 2
+clear
+npm run multiply 5 2
+cleaar
+clear
+ls
+npm run ts-node -- multiplier.ts
+clear
+ls
+npm run ts-node -- multiplier.ts
+ls
+npm run ts-node -- multiplier.ts
+clear
+npm run ts-node -- multiplier.ts
+np run multiply 5 2
+npm run multiply 5 2
+npm run multiply 5 lol
+cd .config/nvim
+cd coding/fullstackopen/part9_studies/
+nv
+npm run multiply 5 5
+npm run multiply 5 5 4
+ls
+mkdir part9
+cd part
+cd part9
+ls
+nv
+..
+ls
+mv -r part9/ ../FullStackOpen_2023/
+mv part9/ ../FullStackOpen_2023/
+cd ..
+ls
+cd FullStackOpen_2023/
+ls
+cd part9
+ls
+nv
+mkdir typescript-project
+ls
+cd typescript-project/
+npm init -y
+clear
+npm install --save-dev ts-node typescript
+ls
+rm -rf node_modules/
+rm package*
+ls
+cd typescript-project/
+ls
+npm install --save-dev ts-node typescript
+cd coding/astudio/
+ls
+clear
+nv
+:clear
+la
+clear
+l
+addr
+cd /home/mike/coding/astudio<\n>
+ls
+cd astudio_react/
+ls
+ls
+cd astudio_server/
+yay -R brave
+pacman -R brave
+clear
+ls
+v
+git status
+git add *
+git commit -m "updates on calltoactions"
+git push
+git push upgrade
+git push origin upgrade
+git status
+git add *
+git commit -m "update on contact us"
+git push
+git push origin upgrade
+npm run server
+clear
+git status
+git add *
+git commit -m "instagram updated"
+git push origin upgrade
+git status
+git add *
+git commit -m "fixes on navbar"
+git push origin upgrade
+npm run server
+npm start
+.screenlayout/standard.sh
+sudo sv restart NetworkManager
+blueman
+ls -l
+ls -a
+vim .oh-my-posh.nu
+cd .poshthemes/
+ls
+..
+clear
+ls
+cd .config/
+ls
+cd nushell/
+ls
+vim config.nu
+clear
+ls
+..
+ls
+vim .oh-my-posh.nu
+ckear
+clear
+ls
+..
+ls
+bat .oh-my-posh.nu
+sudo reboot
+ls
+ls -la
+clear
+ls
+cd .config/
+ls
+cd ..
+clea
+rls
+clear
+ls -lR | grep language
+ls -h
+clea
+clear
+ls
+cd .config/
+ls
+clear
+ls
+cd nvim
+ls
+pacman -Q | null
+pacman -Q | type
+pacman -Q | grep null
+pacman -Q | grep type
+npm --list
+npm list --global
+reboot
+sudo reboot
+clear
+ls
+clear
+ls
+cd .config/
+ls
+clear
+ls
+..
+ls
+cd .local/
+ls
+cd bin
+ls
+..
+ls
+cd .src
+ls
+cd src/
+ls
+cd dwm/
+ls
+v config.h
+clear
+ls
+..
+ls
+cd dwmblocks/
+ls
+sudo make clean install
+v
+.screenlayout/standard.sh
+ls
+cd myscripts/
+ls
+cd ..
+ls
+cd .screenlayout/
+ls
+v
+.screenlayout/standard.sh
+./standard.sh
+.screenlayout/standard.sh
+v
+./standard.sh
+ls
+clea
+rls
+cf
+cd .config/
+ls
+..
+ls
+cd wallpaper/
+ls
+htop
+ls -a
+.screenlayout/standard.sh
+clear
+ls
+cd .local/src/dwm
+ls
+lf
+ls
+cd .local/share/
+ls
+..
+ls
+..
+ls
+cd wallpaper/
+ls
+setbg
+cd .screenlayout/
+ls
+v
+.screenlayout/standard.sh
+ls
+./standard.sh
+v .xprofile
+clear
+ls
+clear
+ls
+..
+ls
+cd mike
+ls
+v .xprofile
+clea
+rls
+v .screenlayout/
+vim
+nvim
+v
+clear
+cd cf
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd .config/
+ls
+cd shell/
+ls
+v
+ls
+cd wallpaper/
+ls
+lf
+ls
+cd .config/
+ls
+cd shell/
+ls
+cp -h
+rsync -h
+clear
+ls
+p -Q
+pacman -Q
+clear
+v
+clear
+ls
+..
+ls
+home
+blueman
+discord
+clear
+ls
+ws
+ls
+cf
+oh-my-posh init nu
+curl -s https://ohmyposh.dev/install.sh | bash -s
+curl -s https://ohmyposh.dev/install.sh | bash -s -- -d ~/.local/bin/
+ls .local/bin/
+ls
+oh-my-posh init nu
+ls
+ls -la
+clear
+ls -a
+v .oh-my-posh.nu
+ls
+ls -la
+mkdir .poshthemes
+cd .poshthemes/
+oh-my-posh init nu --config ~/.poshthemes/amro.omp.json
+ls
+cf
+cd .config/
+ls
+cd shell
+ls
+v
+cd .icons/default/
+ls
+v
+cd ~/.config/gtk-3.0/
+cd .icons/default/
+ls
+multiScreen
+ls
+cd Downloads/
+ls
+code --version
+code
+v
+ls
+clear
+ls
+..
+ls
+multiScreen
+find setbg
+cd .local/
+ls
+cd bin
+ls
+v
+gsetting
+cd .local/
+cd
+cd .local/share/
+ls
+cd icons/
+ls
+unzip Qogir-Recolored-Catppuccin-Macchiato-v2.tar.gz
+ls
+rm Qogir-Recolored-Catppuccin-Macchiato-v2.tar.gz
+ls
+git clone https://github.com/TeddyBearKilla/Qogir-Cursors-Recolored.git
+ls
+cd Qogir-Cursors-Recolored/
+ls
+cd .local/share/
+ls
+cd colors/Catppuccin/
+ls
+cd Sky/
+ls
+./install.sh
+find /usr/share/icons ~/.local/share/icons ~/.icons -type d -name "cursors"<\n>
+cd .icons/default/
+v
+multiScreen 
+cd .config/shell/
+cd .config/nushell/
+ls
+ls -hN --color=auto --group-directories-first
+killall
+g
+ics
+v
+v
+blueman
+ls
+next_port 
+ls
+next_port 
+nv
+blueman
+npm install resend@0.16.0
+cf
+cd .config/nushell/
+cd .config/
+cd shell/
+ls
+cf
+ls
+cf
+ls
+clear
+cf
+ls
+clear
+v
+cf
+cd gtk-3.0/
+ls
+v
+cd .icons/default/
+cd ~/.icons/default/
+cf
+cd gtk-3.0/
+find /usr/share/icons ~/.local/share/icons ~/.icons -type d -name "cursors"<\n>
+cd .icons/default/
+cd .config/gtk-3.0/
+ls
+v
+v
+multiScreen 
+next_port
+blueman
+next_port
+nv
+npm install @react-email/components @react-email/tailwind
+npm install react-hot-toast
+git status
+git add *
+git commit -m "contact completed"
+git push
+git status
+git rm .env
+git status
+git add *
+git commit -m "oops"
+git push
+g status
+npm run dev
+cf
+cd nvim
+ls
+v
+nv
+vn
+nv
+nvnpm run dev
+ls
+npm run dev
+lf
+next_port
+npm run dev
+next_port 
+ls
+code .
+next_port 
+multiScreen 
+ls
+ws
+ls
+cd 42sh/
+ls
+./42sh
+clear
+multiScreen 
+npm run dev
+v
+git status
+git add *
+git status
+git commit -m "complete. Need to clean up assets"
+next_port 
+git status
+git add *
+git status
+git commit -m "complete"
+git push
+next_port 
+ls
+git status
+D
+ls
+unzip favicon_io.zip
+ls
+mv favicon.ico ~/Workspace/next_portfolio/
+D
+ls
+rm favicon_io.zip
+ls
+rm android-chrome-192x192.png android-chrome-512x512.png
+rm dazzle.png
+rm favicon-16x16.png favicon-32x32.png
+ls
+rm apple-touch-icon.png
+rm -rf fira/
+clear
+ls
+rm site.webmanifest
+ls
+clear
+ls
+rm dwm.c
+ls
+rm `42sh_eval_form.pdf`
+ls
+unzip favicon_w3cub.zip
+ls
+npm run dev
+git status
+git add *
+git commit -m "updated ico and metadata"
+git push
+v
+multiScreen 
+blueman
+ls
+cd Workspace/
+ls
+clear
+ls
+mkdir car_showcase
+cd car_showcase/
+ls
+next_port 
+ls
+addr
+npx create-next-app@latest .
+/home/mike/Workspace/next_portfolio<\n>
+cd /home/mike/Workspace/next_portfolio<\n>
+v
+ls
+next_port 
+ls
+git status
+git checkout -b grid
+git branch
+v
+ws
+cd car_showcase/
+addr
+/home/mike/Workspace/car_showcase<\n>
+cd /home/mike/Workspace/car_showcase<\n>
+v
+multiScreen 
+multiScreen
+df
+ls
+cd .local/src/
+ls
+cd lsp/
+ls
+..
+ls
+cd dwmblocks/
+ls
+v
+..
+ls
+cd dmenu/
+ls
+v
+..
+ls
+clear
+ls
+..
+cf
+cd nvim
+ls
+multiScreen
+v
+ls
+next_port 
+ls
+v
+v
+blueman
+ws
+cd ics-website/
+ls
+..
+ls
+cd car_showcase/
+ls
+ws
+cd car_showcase/
+cd .icons/default/
+v
+ls
+mv index.theme index
+ls
+..
+ls
+..
+ls
+rm -rf .icons/
+ls
+D
+ls
+rm android* apple-touch-icon.png favicon*
+l
+brave index.html
+chromium index.html
+rm index.html
+ls
+rm site.webmanifest
+ls
+unzip car_showcase_public.zip
+ls
+mv public/ ~/Workspace/car_showcase/
+npm run dev
+v
+clear
+ls
+..
+ls
+clear
+ls
+ws
+ls
+mkdir next-ics-website
+cd next-ics-website/
+npx create-next-app@latest .
+ls
+..
+ls
+cd next-ics-website/
+npm install contentful
+next_port 
+npm install cf-content-types-generator --save-dev
+export
+npm run types:contentful
+..
+full
+ls
+cd part9_studies/
+ls
+cd ilari-flight-diaries/
+npm install --save-dev @contentful/rich-text-types
+npm install @contentful/rich-text-types
+npm install @contentful/rich-text-react-renderer
+v
+v
+..
+ls
+cd ics-website/
+ls
+npm run dev
+v
+mkdir .icons
+cd .icons/
+ls
+mkdir default
+cd default/
+ls
+cf
+cd gtk-3.0/
+bat
+ls
+bat settings.ini
+v
+cd .icons/default/
+v
+multiScreen
+ls
+ws
+ls
+cf
+cd nushell/
+ls
+nuconfig
+v
+cd next-ics-website/
+cd next-ics
+nuconfig
+v
+next-ics
+next_ics 
+ls
+clear
+next_ics 
+v
+ls
+..
+ls
+clear
+ls
+clear
+ls
+ws
+ls
+nuconfig
+next_ics
+npm run dev
+clear
+next_ics
+nmtui
+ls
+ics-website
+ws
+cd ics-website/
+ls
+v
+npm run dev
+v
+multiScreen
+sudo poweroff
+multiScreen
+nmtui
+next_ics
+addr
+ls
+/home/mike/Workspace/next-ics-website<\n>
+cd /home/mike/Workspace/next-ics-website<\n>
+ls
+git status
+git add *
+git commit -m "need to fetch media as well"
+git push
+clear
+git branch
+git checkout -b frontend
+v
+multiScreen
+nmtui
+cd /usr/share/X11/
+ls
+cd xorg.conf.d/
+ls
+libinput
+libinput list-devices
+sudo libinput list-devices
+v
+sudo nvim `40-libinput.conf`
+multiScreen
+next_ics
+clear
+ls
+v
+next_port
+npm install react-icons
+npm run dev
+blueman
+git status
+git add *
+git commit -m "just started"
+git push
+npm run dev
+blueman
+v
+ics
+ls
+npm install dayjs
+git status
+git add *
+git commit -m "upcoming conference template done"
+git push
+next_ics
+git branch -M main
+git remote add origin git@github.com:mike-ninja/next_ics.git
+git status
+git branch
+git branch checkout frontend
+git branch
+git status
+..
+ls
+cd next-ics-website/
+ls
+npm run dev
+git status
+npm run dev
+git status
+git rm services/
+git rm -r services/
+git status
+git commit -m "deleted unnecessary files"
+git push
+git push --set-upstream origin main
+git status
+v
+multiScreen
+blueman
+nmtui
+NetworkManager 
+ics_next
+next_ics 
+clear
+ls
+next_ics 
+ls
+v
+fc-list | grep Fira
+dt
+ls
+..
+ls
+cd src/
+ls
+cd st
+ls
+fc-list | grep Jet
+fc-list | grep Fira
+v
+sudo make install
+ls
+ls
+cd .local/src/
+ls
+cd st/
+ls
+fc-list | grep Fira
+fc-list | grep Jet
+v
+sudo make install
+cd .local/src/
+cd dwm
+ls
+v
+v
+ls
+cd /usr/share/fonts/
+ls
+cd TTF/
+ls
+rm FiraCode*
+sudo rm FiraCode*
+ls
+ics_next
+next_ics 
+v
+nv
+multiScreen
+ics_next
+next_ics 
+blueman
+next_port 
+v
+..
+ls
+cd ics-website/
+ls
+npm run dev
+ics_next
+next_ics 
+nv
+v
+next_port 
+v
+ics
+clear
+ics
+cd -
+npm run dev
+nv
+git status
+git add *
+git statu
+git status
+git commit -m "advantages on"
+git push
+git status
+git add *
+git commit -m "calltoaction up"
+git push
+npm install @next/font
+npm run dev
+clear
+npm remove @next/font
+npm install next/font
+npm run dev
+v
+next_port 
+v
+next_ics 
+git status
+git add *
+git commit -m "hover effect not working in header"
+git push
+poweroff
+sudo poweroff
+multiScreen
+nmtui
+blueman
+ics_next
+next_ics
+nv
+next_ics
+ls
+next_port
+npm run dev
+git status
+git add *
+git commit -m "fixing centering"
+git push
+npm run dev
+git status
+git add *
+git commit -m "header different views fixed"
+git push
+ics
+cd -
+npm run dev
+git status
+git add *
+git commit -m "upcoming conferences"
+git push
+npm run dev
+git status
+git add *
+git commit -m "about is done"
+git push
+nv
+cf
+cd nvim
+v
+npm run dev
+git status
+git add *
+git commit -m "setting up carousel"
+git push
+npm install react-slick --save-dev
+npm install slick-carousel
+npm install --save-dev @types/react-slick
+npm remove --save-dev @types/react-slick
+npm remove slick-carousel
+npm remove react-slick --save-dev
+git status
+git stash
+git status
+npm install embla-carousel --save-dev
+npm install embla-carousel-react
+npm remove embla-carousel-react
+npm install embla-carousel-react --save-dev
+npm run dev
+clear
+npm run dev
+npm install embla-carousel-wheel-gestures --save
+npm install embla-carousel-wheel-gestures --save-dev
+npm install embla-carousel-wheel-gestures --save
+ls
+p
+npm install embla-carousel-wheel-gestures --save
+npm install embla-carousel-autoplay --save
+npm remove embla-carousel
+npm run dev
+git status
+git add *
+git commit -m "carousel for events complete"
+git push
+npm run dev
+clear
+npm run dev
+git status
+git add *
+git commit -m "carousel for advantages complete"
+git push
+v
+v
+next_ics 
+nv
+es
+ls
+ws
+ls
+cd ics-website/
+ls
+npm run dev
+v
+..
+ls
+cd next_port
+next_port
+v
+ics_next
+next_ics
+git statu
+git status
+git add *
+git commit -m "update"
+git push
+next_ics
+v
+multiScreen
+blueman
+next_ics
+nv
+next_ics
+nmtui
+NetworkManager 
+nmtui
+NetworkManager 
+nmtui
+sv restart NetworkManager
+sudo sv restart NetworkManager
+cd .local/bin
+ls
+v
+cd -
+cd next_ics
+next_ics
+ics
+npm run dev
+v
+next_port
+..
+next_ics 
+npm run dev
+clear
+npm run dev
+git status
+git add *
+git commit -m "sizing issue fixed"
+git push
+npm run dev
+git status
+git add *
+git commit -m "update"
+git push
+npm run dev
+git statu
+git status
+git commit -m "work on other pages"
+git add &
+git add *
+git status
+git commit -m "work on other pages"
+git push
+v
+clear
+ics
+clear
+v
+next_port
+npm run dev
+v
+ics
+v
+lf
+npm run dev
+git status
+git add *
+git commit -m "about page is done"
+git push
+next_port 
+npm install resend
+npm install resend@0.16.0
+npm install react-hot-toast
+clear
+npm run dev
+npm install @react-email/components @react-email/tailwind
+npm run dev
+git stash
+git status
+git add *
+git commit -m "Contact form working"
+git push
+v
+bluema
+blueman
+code .
+next_ics
+git status
+git add *
+git status
+git rm '['
+git status
+git commit -m "update"
+git push
+next_port
+code .
+next_ics
+nv
+next_port
+npm run dev
+v
+ics
+git status
+git add &
+git add *
+git commit -m "basic navbar implmented"
+git push
+v
+next_ica
+next_ics
+ls
+nv
+g status
+g add &
+g add *
+g commit -m "fixed type error with coverImageParser"
+git push
+blueman
+multiScreen
+clear
+ls
+next_ics
+ls
+nv
+next_ics
+npm run dev
+next_ics
+ls
+ics
+ls
+fc-list | grep Jet
+fc-list | grep Fira
+fc-list | grep fira
+fc-list
+fc-list | grep Jet
+v
+ics
+cd -
+npm run dev
+v
+next_port
+npm run dev
+git status
+git add *
+git commit -m "implementing countdown"
+git push
+npm install react-countdown --save-dev
+npm install --save-dev prop-types
+npm remove prop-types react-countdown
+npm install react-countdown-typescript
+npm remove react-countdown-typescript
+npm run dev
+git status
+git add &
+git add *
+git commit -m "conference header complete"
+git push
+git status
+git add *
+g commit -m "commented out generateMetadata for now"
+git push
+git status
+git log
+npm run build
+git status
+git run build
+npm run bui;d
+npm run build
+git status
+git add *\
+git add *
+git status
+git commit -m "run build error fixed"
+git push
+v
+next_ics
+npm run dev
+git log
+git checkout -b theme_change
+git status
+git branch
+npm run dev
+next_ics
+nv
+npm run dev
+git status
+git add *
+git commit -m "main page indigenous theme"
+git push
+git push --set-upstream origin theme_change
+git status
+git add *
+git commit -m "update phone number"
+git push
+npm run dev
+git status
+git add *
+git commit -m "fixes on ConferenceHeader"
+git push
+nmtui
+sudo sv restart NetworkManager
+multiScreen
+ls
+ws
+ls
+cd car_showcase/
+ls
+ws
+cd car_showcase/
+ls
+nv
+ws
+cd car_showcase/
+ls
+git status
+git add *
+git commit -m "36:31 into the video"
+sudo sv restart NetworkManager
+sudo poweroff
+multi
+multiScreen
+blueman
+sudo sv restart NetworkManager
+clear
+v
+fc-list | grep Jet
+ls
+cd .local/share/
+cd icons/
+ls
+..
+ls
+..
+ls
+..
+cf
+ls
+cd fontconfig/
+ls
+cd conf.d/
+ls
+..
+v
+dt
+..
+ls
+cd src/
+l
+cd st/
+v
+..
+cd st
+v
+../dwm
+ls
+v
+sudo make install
+multiScreen
+v
+cf
+cd nvim
+ls
+fc-list | grep Jet
+v
+cf
+cd fontconfig/
+ls
+v
+dt
+df
+..
+ls
+cd src/
+ls
+cd dwm
+v
+sudo make install
+..
+cd st/
+v
+sudo make install
+nv
+multiScreen 
+cf
+cd nvim
+yay -Syu ttf-firacode
+p -Syu
+sudo p -Syu
+v
+next_ics
+nv
+git status
+blueman
+cf
+cd nvim
+v
+git status
+git add *
+git commit -m "preview mode"
+git push
+git status
+git add *
+git commit -m "preview mode done I think"
+git push
+git status
+git checkout main
+git status
+git merge theme_change
+git push
+ws
+cd car_showcase/
+ls
+nv
+ws
+cd car_showcase/
+git log
+npm install @headlessui/react
+git status
+git add *
+git commit -m "1:15:44 into the video:<\n>"
+git status
+git branch -M main
+git remote add origin git@github.com:mike-ninja/car_showcase.git
+git push -u origin main
+npm run dev
+sudo sv restart NetworkManager
+next_ics
+git status
+npm run dev
+git add *
+git commit -m "updater carousel"
+git push
+blueman
+npm run dev
+nmtui
+sudo sv restart NetworkManager
+ping google.com
+..
+next_ics
+nv
+v
+npm run dev
+git status
+git add *
+git commit -m "minor update"
+git push
+python -v
+clear
+multiScreen
+ls
+clear
+ls
+su
+sudo sv restart NetworkManager
+ls
+cf
+cd nvim
+clear
+ls
+cd lua/
+ls
+cd custom/
+ls
+git status
+git add *
+git commit -m "update"
+git push
+ls
+git clone git@github.com:mike-ninja/ninja-nixos-setup.git
+clear
+ls
+cd ninja-nixos-setup/
+ls
+cd .config/
+ls
+rm -rf hypr/ waybar/ kitty/
+clear
+ls
+..
+cf
+ls
+cp -r gtk-3.0/ ~/ninja-nixos-setup/.config/
+ls
+cp -r shell/ ~/ninja-nixos-setup/.config/

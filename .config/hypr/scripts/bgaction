@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-# start swww
-
-swww init
-swww img "~/.config/hypr/1098024.png"
